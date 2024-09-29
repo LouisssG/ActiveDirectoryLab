@@ -235,7 +235,7 @@ After running the script, verify that the users were created successfully by:
 ### Logging in with Created User Accounts 🔑
 Now that everything is set up, you can log in to **Client1** using any of the 1,000 user accounts that were created. This can be done by selecting the "Other user" option on the login screen and entering the credentials of any of the users created through the PowerShell script.
 
-![Login with User Account](path/to/login-image.png) <!-- Add an image of the login screen with user account -->
+![Login with User Account](https://i.imgur.com/fjVc8da.png) <!-- Add an image of the login screen with user account -->
 
 ## Summary of Learning 📚
 - Developed practical skills in setting up and managing Active Directory, including user and group management.

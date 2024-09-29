@@ -1,7 +1,9 @@
 # Active Directory Homelab Project
 
 ## Project Overview 🌟 
-This project aims to set up an Active Directory (AD) environment using a homelab. The primary objectives are to learn about Active Directory, user management, group policies, and authentication services.
+This project aims to set up an Active Directory (AD) environment using a homelab. The primary objectives are to learn about Active Directory, user management, group policies, and authentication services. Throughout the process, I am documenting each step and providing instructions on how to replicate the setup, ensuring a comprehensive guide for others interested in similar projects.
+
+
 
 ## Prerequisites ⚙️
 - **Virtualization Software**: VirtualBox
